@@ -1,0 +1,27 @@
+{
+  "name": "price-engine-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.13.0",
+    "node-sass": "^6.0.0",
+    "vue": "^3.0.11",
+    "vue-axios": "^3.2.4",
+    "vue-router": "^4.0.8",
+    "vue-table-dynamic": "^0.4.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.0.11",
+    "sass": "^1.34.0",
+    "sass-loader": "^10.1.1",
+    "vue-loader-v16": "^16.0.0-beta.5.4",
+    "webpack": "^4.0.0"
+  }
+}
